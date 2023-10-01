@@ -29,3 +29,12 @@ GITHUB :  github.com/tomriddle77 <br>
 INSTITUTE/COMPANY : HOGWARTS<br>
 DOMAIN: Data Science <br>
 -----
+
+-----
+
+NAME :  AMULYA MAURYA <br>
+GITHUB :  github.com/amulya77 <br>
+INSTITUTE/COMPANY CHANDIGARH UNIVERSITY
+DOMAIN/LANGUGAE : Data Science
+
+------
